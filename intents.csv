@@ -6,6 +6,11 @@ Welche Produkte gibt es, ListProducts
 Gib mir eine Liste der verfügbaren Produkte, ListProducts
 Was produziert ihr, ListProducts
 
+Welche Zahlungsmöglichkeit habe ich, ListPayment
+Wie kann ich zahlen, ListPayment
+welche Kreditkarten werden akzeptiert, ListPayment
+Kann ich mit Paypal bezahlen, ListPayment
+
 Wo werden die Produkte hergestellt, tellmeabout
 Wie kann ich einen Katalog bestellen, tellmeabout
 Wie sind die Garantiezeiten, tellmeabout
